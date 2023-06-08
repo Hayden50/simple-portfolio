@@ -16,8 +16,6 @@ body {
 }
 
 
-
-
 /* Main Page Layout */
 
 #main-content {
@@ -28,13 +26,11 @@ body {
 }
 
 
-
-
 /* Portfolio Header */
 
 #portfolio-header {
   display: flex;
-  gap: 20px;
+  gap: 80px;
   align-items: center;
 }
 
@@ -58,8 +54,6 @@ body {
 }
 
 
-
-
 /* About Section */
 
 #about-section {
@@ -75,11 +69,15 @@ body {
 }
 
 
-
-
 /* Project Section */
 
 #my-work-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+#my-projects-section {
   display: flex;
   flex-direction: column;
   gap: 16px;

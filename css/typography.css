@@ -7,6 +7,10 @@ body {
   font-size: 24px;
 }
 
+.title-name {
+  color: #658B6F;
+}
+
 .button-text {
   font-size: 14px;
   font-weight: 700;
@@ -30,6 +34,7 @@ body {
 .body-text {
   font-size: 16px;
   font-weight: 500;
+  font-style: italic;
 }
 
 .project-card-text {

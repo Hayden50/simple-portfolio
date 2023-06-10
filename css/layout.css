@@ -13,6 +13,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #E9ECE6;
 }
 
 
@@ -109,6 +110,9 @@ body {
       height: 200px;
       object-fit: cover;
       object-position: center;
+      border-width: 2px;
+      border-style: solid;
+      border-color: #004976;
     }
 
 
